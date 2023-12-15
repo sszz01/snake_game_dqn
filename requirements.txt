@@ -1,3 +1,6 @@
 pygame~=2.5.2
 tensorflow~=2.15.0
 numpy~=1.26.2
+torch~=2.1
+matplotlib~=3.8.2
+ipython~=8.14.0
